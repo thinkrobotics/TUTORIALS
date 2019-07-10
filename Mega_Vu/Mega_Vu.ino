@@ -1,3 +1,6 @@
+//Created by MokshJadhav for ThinkRobotics
+//please read the readme file once to understand wiring. Thank you.
+//July2019
 #include <Adafruit_NeoPixel.h>
 #include <FastLED.h>
 #include "water_torture.h"
